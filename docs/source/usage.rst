@@ -10,7 +10,7 @@ To use tkmt_ensemble, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install tkmt_package
+   pip install tkmt_package
 
 Creating recipes
 ----------------
