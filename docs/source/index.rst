@@ -16,4 +16,6 @@ Contents
 .. toctree::
 
    usage
-   api
+   Ensemble Learning Techniques 
+   Data Preprocessing
+   Performance Evaluation
